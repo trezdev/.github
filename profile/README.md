@@ -64,8 +64,8 @@ AWS, Azure, Terraform, Kubernetes, Docker, GCP
 ## 📩 **Let's Build Together**
 ```yaml
 contact:
-  email: "contact@trezdev.io"
-  website: "https://trezdev.io"
+  email: "contact@trezdev.ai"
+  website: "https://trezdev.ai"
   socials:
     - LinkedIn: "/trezDev"
     - GitHub: "/trezDev"
